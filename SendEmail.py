@@ -4,8 +4,6 @@ from NumberGenerator import NumberGenerator
 import datetime
 import time
 import sched
-import xlrd
-from validate_email import validate_email
 import sys
 
 class Email:
